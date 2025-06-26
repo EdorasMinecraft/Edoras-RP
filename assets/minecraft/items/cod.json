@@ -197,6 +197,48 @@
                 }
             },
             {
+                "threshold": 50028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/common/abadejo"
+                }
+            },
+            {
+                "threshold": 50029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/common/pez_cofre_palido"
+                }
+            },
+            {
+                "threshold": 50030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/common/pez_globo_blanco"
+                }
+            },
+            {
+                "threshold": 50031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/common/pez_globo"
+                }
+            },
+            {
+                "threshold": 50032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/common/pleco_triple_giro"
+                }
+            },
+            {
+                "threshold": 50033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/common/pulpo_blanco"
+                }
+            },
+            {
                 "threshold": 51001,
                 "model": {
                     "type": "model",
@@ -383,6 +425,48 @@
                 "model": {
                     "type": "model",
                     "model": "edofishing:item/fish/singular/trucha_magmatica"
+                }
+            },
+            {
+                "threshold": 51028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/singular/gobio_ambar"
+                }
+            },
+            {
+                "threshold": 51029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/singular/pez_ardilla"
+                }
+            },
+            {
+                "threshold": 51030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/singular/pez_globo_rojo"
+                }
+            },
+            {
+                "threshold": 51031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/singular/medusa_roja"
+                }
+            },
+            {
+                "threshold": 51032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/singular/pez_cerdo_rojo"
+                }
+            },
+            {
+                "threshold": 51033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/singular/pulpo_rojo"
                 }
             },
             {
@@ -575,6 +659,48 @@
                 }
             },
             {
+                "threshold": 52028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/rare/anguila_pelicano"
+                }
+            },
+            {
+                "threshold": 52029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/rare/cangrejo_ermitano_arenoso"
+                }
+            },
+            {
+                "threshold": 52030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/rare/pez_globo_amarillo"
+                }
+            },
+            {
+                "threshold": 52031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/rare/pez_sol"
+                }
+            },
+            {
+                "threshold": 52032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/rare/pulpo_amarillo"
+                }
+            },
+            {
+                "threshold": 52033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/rare/raya_electrica"
+                }
+            },
+            {
                 "threshold": 53001,
                 "model": {
                     "type": "model",
@@ -761,6 +887,48 @@
                 "model": {
                     "type": "model",
                     "model": "edofishing:item/fish/epic/pez_saltador_de_azufre"
+                }
+            },
+            {
+                "threshold": 53028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/epic/pez_globo_mutante"
+                }
+            },
+            {
+                "threshold": 53029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/epic/pez_globo_verde"
+                }
+            },
+            {
+                "threshold": 53030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/epic/pez_piedra"
+                }
+            },
+            {
+                "threshold": 53031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/epic/pez_platija"
+                }
+            },
+            {
+                "threshold": 53032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/epic/pulpo_verde"
+                }
+            },
+            {
+                "threshold": 53033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/epic/tortuga_kinosternon_verde"
                 }
             },
             {
@@ -953,6 +1121,48 @@
                 }
             },
             {
+                "threshold": 54028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/legendary/pez_volador"
+                }
+            },
+            {
+                "threshold": 54029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/legendary/isopodo_gigante_nevado"
+                }
+            },
+            {
+                "threshold": 54030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/legendary/pez_globo_azul"
+                }
+            },
+            {
+                "threshold": 54031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/legendary/merluza_cola_de_foca"
+                }
+            },
+            {
+                "threshold": 54032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/legendary/pez_luna"
+                }
+            },
+            {
+                "threshold": 54033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/legendary/pulpo_azul"
+                }
+            },
+            {
                 "threshold": 55001,
                 "model": {
                     "type": "model",
@@ -1139,6 +1349,48 @@
                 "model": {
                     "type": "model",
                     "model": "edofishing:item/fish/mythic/trucha_obsidiana_llorosa"
+                }
+            },
+            {
+                "threshold": 55028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/mythic/champibara"
+                }
+            },
+            {
+                "threshold": 55029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/mythic/pez_globo_real"
+                }
+            },
+            {
+                "threshold": 55030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/mythic/pez_remo"
+                }
+            },
+            {
+                "threshold": 55031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/mythic/pez_cabeza_transparente_resinoso"
+                }
+            },
+            {
+                "threshold": 55032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/mythic/pez_loro_jorobado"
+                }
+            },
+            {
+                "threshold": 55033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/mythic/pulpo_real"
                 }
             },
             {
@@ -1331,6 +1583,48 @@
                 }
             },
             {
+                "threshold": 56028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/divine/anguila_agachadiza"
+                }
+            },
+            {
+                "threshold": 56029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/divine/pez_caracol"
+                }
+            },
+            {
+                "threshold": 56030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/divine/pez_globo_sagrado"
+                }
+            },
+            {
+                "threshold": 56031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/divine/pez_cirujano_de_aleta_vela"
+                }
+            },
+            {
+                "threshold": 56032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/divine/pez_diablo_concha"
+                }
+            },
+            {
+                "threshold": 56033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/divine/pulpo_sagrado"
+                }
+            },
+            {
                 "threshold": 58001,
                 "model": {
                     "type": "model",
@@ -1356,6 +1650,13 @@
                 "model": {
                     "type": "model",
                     "model": "edofishing:item/fish/regional/pez_cerezo"
+                }
+            },
+            {
+                "threshold": 58005,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/regional/barbo_edorino"
                 }
             },
             {
@@ -2192,6 +2493,41 @@
                 }
             },
             {
+                "threshold": 65501,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/mariposa_arcoiris"
+                }
+            },
+            {
+                "threshold": 65502,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/marisa_la_abeja"
+                }
+            },
+            {
+                "threshold": 65503,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/peep"
+                }
+            },
+            {
+                "threshold": 65504,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/pez_huevo_globo"
+                }
+            },
+            {
+                "threshold": 65505,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edospring/rana_primaveral"
+                }
+            },
+            {
                 "threshold": 70000,
                 "model": {
                     "type": "model",
@@ -2199,24 +2535,5 @@
                 }
             }
         ]
-    },
-    "display": {
-        "head": {
-            "rotation": [
-                0,
-                90,
-                -60
-            ],
-            "translation": [
-                -7,
-                -4,
-                -7
-            ],
-            "scale": [
-                0.8,
-                0.8,
-                0.8
-            ]
-        }
     }
 }

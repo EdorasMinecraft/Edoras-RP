@@ -112,11 +112,11 @@
                     "property": "minecraft:fishing_rod/cast",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/overworld/sun_coral_rod"
+                        "model": "edofishing:item/rod/overworld/thorn_coral_rod"
                     },
                     "on_true": {
                         "type": "minecraft:model",
-                        "model": "edofishing:item/rod/overworld/sun_coral_rod_cast"
+                        "model": "edofishing:item/rod/overworld/thorn_coral_rod_cast"
                     }
                 }
             },
@@ -132,6 +132,51 @@
                     "on_true": {
                         "type": "minecraft:model",
                         "model": "edofishing:item/rod/overworld/horn_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51009,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/overworld/kelp_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/overworld/kelp_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51010,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/overworld/tree_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/overworld/tree_coral_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 51011,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/overworld/fan_coral_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/overworld/fan_coral_rod_cast"
                     }
                 }
             },
@@ -237,6 +282,51 @@
                     "on_true": {
                         "type": "minecraft:model",
                         "model": "edofishing:item/rod/nether/magmatic_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52008,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/nether/glowstone_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/nether/glowstone_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52009,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/nether/magma_cream_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/nether/magma_cream_rod_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 52010,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/nether/pigman_rod"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "edofishing:item/rod/nether/pigman_rod_cast"
                     }
                 }
             },

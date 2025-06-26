@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/fishing_rod",
+    "textures": {
+        "layer0": "edofishing:item/rod/overworld/kelp_coral_rod_cast"
+    }
+}

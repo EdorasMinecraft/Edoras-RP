@@ -50,6 +50,34 @@
                 }
             },
             {
+                "threshold": 11007,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/crocodile_plushie"
+                }
+            },
+            {
+                "threshold": 11008,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/elephant_seal_plushie"
+                }
+            },
+            {
+                "threshold": 11009,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/platypus_plushie"
+                }
+            },
+            {
+                "threshold": 11010,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edofishing/walrus_plushie"
+                }
+            },
+            {
                 "threshold": 20001,
                 "model": {
                     "type": "model",
@@ -379,6 +407,13 @@
                 }
             },
             {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/infernal_bait"
+                }
+            },
+            {
                 "threshold": 50003,
                 "model": {
                     "type": "model",
@@ -414,6 +449,27 @@
                 }
             },
             {
+                "threshold": 50008,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/carnival_worm_bait"
+                }
+            },
+            {
+                "threshold": 50009,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/valentine_worm_bait"
+                }
+            },
+            {
+                "threshold": 50010,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/bait/mini_carrot_bait"
+                }
+            },
+            {
                 "threshold": 51001,
                 "model": {
                     "type": "model",
@@ -435,7 +491,511 @@
                 }
             },
             {
-                "threshold": 51005,
+                "threshold": 53001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/acan_coral"
+                }
+            },
+            {
+                "threshold": 53002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/acan_coral_fan"
+                }
+            },
+            {
+                "threshold": 53003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/amber_coral"
+                }
+            },
+            {
+                "threshold": 53004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/amber_coral_fan"
+                }
+            },
+            {
+                "threshold": 53005,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/annemone_coral"
+                }
+            },
+            {
+                "threshold": 53006,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/annemone_coral_fan"
+                }
+            },
+            {
+                "threshold": 53007,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/barrel_coral"
+                }
+            },
+            {
+                "threshold": 53008,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/barrel_coral_fan"
+                }
+            },
+            {
+                "threshold": 53009,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/branch_coral"
+                }
+            },
+            {
+                "threshold": 53010,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/branch_coral_fan"
+                }
+            },
+            {
+                "threshold": 53011,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/bush_coral"
+                }
+            },
+            {
+                "threshold": 53012,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/bush_coral_fan"
+                }
+            },
+            {
+                "threshold": 53013,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/button_coral"
+                }
+            },
+            {
+                "threshold": 53014,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/button_coral_fan"
+                }
+            },
+            {
+                "threshold": 53015,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/cerulean_coral"
+                }
+            },
+            {
+                "threshold": 53016,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/cerulean_coral_fan"
+                }
+            },
+            {
+                "threshold": 53017,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/chimney_coral"
+                }
+            },
+            {
+                "threshold": 53018,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/chimney_coral_fan"
+                }
+            },
+            {
+                "threshold": 53019,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/finger_coral"
+                }
+            },
+            {
+                "threshold": 53020,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/finger_coral_fan"
+                }
+            },
+            {
+                "threshold": 53021,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/flower_coral"
+                }
+            },
+            {
+                "threshold": 53022,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/flower_coral_fan"
+                }
+            },
+            {
+                "threshold": 53023,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/ghoul_coral"
+                }
+            },
+            {
+                "threshold": 53024,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/ghoul_coral_fan"
+                }
+            },
+            {
+                "threshold": 53025,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/hand_coral"
+                }
+            },
+            {
+                "threshold": 53026,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/hand_coral_fan"
+                }
+            },
+            {
+                "threshold": 53027,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/ice_coral"
+                }
+            },
+            {
+                "threshold": 53028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/ice_coral_fan"
+                }
+            },
+            {
+                "threshold": 53029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/lettuce_coral"
+                }
+            },
+            {
+                "threshold": 53030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/lettuce_coral_fan"
+                }
+            },
+            {
+                "threshold": 53031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/lophelia_coral"
+                }
+            },
+            {
+                "threshold": 53032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/lophelia_coral_fan"
+                }
+            },
+            {
+                "threshold": 53033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/maroon_coral"
+                }
+            },
+            {
+                "threshold": 53034,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/maroon_coral_fan"
+                }
+            },
+            {
+                "threshold": 53035,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/moss_coral"
+                }
+            },
+            {
+                "threshold": 53036,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/moss_coral_fan"
+                }
+            },
+            {
+                "threshold": 53037,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/olive_coral"
+                }
+            },
+            {
+                "threshold": 53038,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/olive_coral_fan"
+                }
+            },
+            {
+                "threshold": 53039,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/petal_coral"
+                }
+            },
+            {
+                "threshold": 53040,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/petal_coral_fan"
+                }
+            },
+            {
+                "threshold": 53041,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/pillow_coral"
+                }
+            },
+            {
+                "threshold": 53042,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/pillow_coral_fan"
+                }
+            },
+            {
+                "threshold": 53043,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/prismarine_coral"
+                }
+            },
+            {
+                "threshold": 53044,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/prismarine_coral_fan"
+                }
+            },
+            {
+                "threshold": 53045,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/ring_coral"
+                }
+            },
+            {
+                "threshold": 53046,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/ring_coral_fan"
+                }
+            },
+            {
+                "threshold": 53047,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/rock_coral"
+                }
+            },
+            {
+                "threshold": 53048,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/rock_coral_fan"
+                }
+            },
+            {
+                "threshold": 53049,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/rose_coral"
+                }
+            },
+            {
+                "threshold": 53050,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/rose_coral_fan"
+                }
+            },
+            {
+                "threshold": 53051,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/shelf_coral"
+                }
+            },
+            {
+                "threshold": 53052,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/shelf_coral_fan"
+                }
+            },
+            {
+                "threshold": 53053,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/silk_coral"
+                }
+            },
+            {
+                "threshold": 53054,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/silk_coral_fan"
+                }
+            },
+            {
+                "threshold": 53055,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/sponge_coral"
+                }
+            },
+            {
+                "threshold": 53056,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/sponge_coral_fan"
+                }
+            },
+            {
+                "threshold": 53057,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/star_coral"
+                }
+            },
+            {
+                "threshold": 53058,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/star_coral_fan"
+                }
+            },
+            {
+                "threshold": 53059,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/sun_coral"
+                }
+            },
+            {
+                "threshold": 53060,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/sun_coral_fan"
+                }
+            },
+            {
+                "threshold": 53061,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/thorn_coral"
+                }
+            },
+            {
+                "threshold": 53062,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/thorn_coral_fan"
+                }
+            },
+            {
+                "threshold": 53063,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/tower_coral"
+                }
+            },
+            {
+                "threshold": 53064,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/tower_coral_fan"
+                }
+            },
+            {
+                "threshold": 53065,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/tree_coral"
+                }
+            },
+            {
+                "threshold": 53066,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/tree_coral_fan"
+                }
+            },
+            {
+                "threshold": 53067,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/turquoise_coral"
+                }
+            },
+            {
+                "threshold": 53068,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/turquoise_coral_fan"
+                }
+            },
+            {
+                "threshold": 53069,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/verdant_coral"
+                }
+            },
+            {
+                "threshold": 53070,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/verdant_coral_fan"
+                }
+            },
+            {
+                "threshold": 53071,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/gold_coral"
+                }
+            },
+            {
+                "threshold": 53072,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/gold_coral_fan"
+                }
+            },
+            {
+                "threshold": 55005,
                 "model": {
                     "type": "model",
                     "model": "item/paper"
