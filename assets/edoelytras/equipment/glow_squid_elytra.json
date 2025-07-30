@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "edoelytras:glow_squid_elytra",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

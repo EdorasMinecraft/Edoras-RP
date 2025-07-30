@@ -995,6 +995,20 @@
                 }
             },
             {
+                "threshold": 53073,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/summer_coral"
+                }
+            },
+            {
+                "threshold": 53074,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/gui/summer_coral_fan"
+                }
+            },
+            {
                 "threshold": 55005,
                 "model": {
                     "type": "model",

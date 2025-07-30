@@ -3230,6 +3230,375 @@
             "chars": [
                 "\uE645"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_dulce_de_leche.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6A5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_tramontana.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6A6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_chocolate_marroc.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6A7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_cafe.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6A8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_chocolate_negro.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6A9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_chocolate_con_leche.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6AA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_vainilla.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6AB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_caramelo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6AC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_nube.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6AD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_banana_split.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6AE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_pistacho.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6AF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_menta.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_tres_sabores.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_stracciatella.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_macedonia.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_cereza.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_fresa.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cono_chocolate_blanco.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_fresa.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_uva.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_naranja.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6B9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_tropical.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6BA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_manzana_verde.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6BB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_nata.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6BC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_melocoton.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6BD"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_vainilla.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6BE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_chocolate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6BF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_pina.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_maracuya.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_mango.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_coco.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_frutos_del_bosque.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_frambuesa.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_limon.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_sandia.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/polo_kiwi.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/ajolote_pirata.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6C9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cangrejo_cucurucho_ermitano.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6CA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/cocoracol.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6CB"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/pez_globo_playero.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6CC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edosummer/rana_veraniega.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE6CD"
+            ]
         }
     ]
 }

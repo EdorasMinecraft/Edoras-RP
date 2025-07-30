@@ -2528,12 +2528,300 @@
                 }
             },
             {
+                "threshold": 66001,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_banana_split"
+                }
+            },
+            {
+                "threshold": 66002,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_cafe"
+                }
+            },
+            {
+                "threshold": 66003,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_caramelo"
+                }
+            },
+            {
+                "threshold": 66004,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_cereza"
+                }
+            },
+            {
+                "threshold": 66005,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_chocolate_blanco"
+                }
+            },
+            {
+                "threshold": 66006,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_chocolate_con_leche"
+                }
+            },
+            {
+                "threshold": 66007,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_chocolate_marroc"
+                }
+            },
+            {
+                "threshold": 66008,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_chocolate_negro"
+                }
+            },
+            {
+                "threshold": 66009,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_dulce_de_leche"
+                }
+            },
+            {
+                "threshold": 66010,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_fresa"
+                }
+            },
+            {
+                "threshold": 66011,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_macedonia"
+                }
+            },
+            {
+                "threshold": 66012,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_menta"
+                }
+            },
+            {
+                "threshold": 66013,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_nube"
+                }
+            },
+            {
+                "threshold": 66014,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_pistacho"
+                }
+            },
+            {
+                "threshold": 66015,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_stracciatella"
+                }
+            },
+            {
+                "threshold": 66016,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_tramontana"
+                }
+            },
+            {
+                "threshold": 66017,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_tres_sabores"
+                }
+            },
+            {
+                "threshold": 66018,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cono_vainilla"
+                }
+            },
+            {
+                "threshold": 66019,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_chocolate"
+                }
+            },
+            {
+                "threshold": 66020,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_coco"
+                }
+            },
+            {
+                "threshold": 66021,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_frambuesa"
+                }
+            },
+            {
+                "threshold": 66022,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_fresa"
+                }
+            },
+            {
+                "threshold": 66023,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_frutos_del_bosque"
+                }
+            },
+            {
+                "threshold": 66024,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_tropical"
+                }
+            },
+            {
+                "threshold": 66025,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_kiwi"
+                }
+            },
+            {
+                "threshold": 66026,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_limon"
+                }
+            },
+            {
+                "threshold": 66027,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_mango"
+                }
+            },
+            {
+                "threshold": 66028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_manzana_verde"
+                }
+            },
+            {
+                "threshold": 66029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_maracuya"
+                }
+            },
+            {
+                "threshold": 66030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_melocoton"
+                }
+            },
+            {
+                "threshold": 66031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_naranja"
+                }
+            },
+            {
+                "threshold": 66032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_nata"
+                }
+            },
+            {
+                "threshold": 66033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_pina"
+                }
+            },
+            {
+                "threshold": 66034,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_sandia"
+                }
+            },
+            {
+                "threshold": 66035,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_uva"
+                }
+            },
+            {
+                "threshold": 66036,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/polo_vainilla"
+                }
+            },
+            {
+                "threshold": 66037,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/ajolote_pirata"
+                }
+            },
+            {
+                "threshold": 66038,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cangrejo_cucurucho_ermitano"
+                }
+            },
+            {
+                "threshold": 66039,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/cocoracol"
+                }
+            },
+            {
+                "threshold": 66040,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/pez_globo_playero"
+                }
+            },
+            {
+                "threshold": 66041,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edosummer/rana_veraniega"
+                }
+            },
+            {
                 "threshold": 70000,
                 "model": {
                     "type": "model",
                     "model": "minecraft:item/cod"
                 }
             }
+
         ]
     }
 }
