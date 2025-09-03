@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edosummer:item/ice_cream_set/ice_cream_brush"
+    }
+}

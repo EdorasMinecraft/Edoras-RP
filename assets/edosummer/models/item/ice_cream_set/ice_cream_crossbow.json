@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow",
+    "textures": {
+        "layer0": "edosummer:item/ice_cream_set/ice_cream_crossbow"
+    }
+}
