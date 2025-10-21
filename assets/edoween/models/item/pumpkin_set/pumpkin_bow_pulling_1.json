@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow_pulling_1",
+    "textures": {
+        "layer0": "edoween:item/pumpkin_set/pumpkin_bow_pulling_1"
+    }
+}

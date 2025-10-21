@@ -11,7 +11,7 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoween:item/trash/bottled_ghost"
+                    "model": "edoween:item/trash/bottled_spectrum"
                 }
             },
             {

@@ -407,6 +407,27 @@
                 }
             },
             {
+                "threshold": 23001,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoween/plushie_gargoyle"
+                }
+            },
+            {
+                "threshold": 23002,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoween/plushie_headless_horseman"
+                }
+            },
+            {
+                "threshold": 23003,
+                "model": {
+                    "type": "model",
+                    "model": "edoplushies:plushies/edoween/plushie_wendigo"
+                }
+            },
+            {
                 "threshold": 50002,
                 "model": {
                     "type": "model",

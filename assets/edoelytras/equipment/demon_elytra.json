@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "edoelytras:demon_elytra",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

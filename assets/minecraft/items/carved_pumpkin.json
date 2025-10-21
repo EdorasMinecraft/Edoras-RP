@@ -43,6 +43,13 @@
                 }
             },
             {
+                "threshold": 51002,
+                "model": {
+                    "type": "model",
+                    "model": "edohats:hats/edoween/fire_hat"
+                }
+            },
+            {
                 "threshold": 50005,
                 "model": {
                     "type": "model",

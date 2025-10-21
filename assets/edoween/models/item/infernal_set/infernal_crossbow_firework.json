@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow_firework",
+    "textures": {
+        "layer0": "edoween:item/infernal_set/infernal_crossbow_firework"
+    }
+}

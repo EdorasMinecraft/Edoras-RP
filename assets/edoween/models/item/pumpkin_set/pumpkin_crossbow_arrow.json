@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow_arrow",
+    "textures": {
+        "layer0": "edoween:item/pumpkin_set/pumpkin_crossbow_arrow"
+    }
+}

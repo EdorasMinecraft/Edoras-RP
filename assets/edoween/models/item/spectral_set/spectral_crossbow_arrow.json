@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow_arrow",
+    "textures": {
+        "layer0": "edoween:item/spectral_set/spectral_crossbow_arrow"
+    }
+}

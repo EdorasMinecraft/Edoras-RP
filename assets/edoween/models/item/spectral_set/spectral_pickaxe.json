@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edoween:item/spectral_set/spectral_pickaxe"
+    }
+}

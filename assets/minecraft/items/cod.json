@@ -1656,7 +1656,7 @@
                 "threshold": 58005,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/fish/regional/barbo_edorino"
+                    "model": "edofishing:item/fish/regional/obispez"
                 }
             },
             {
@@ -1860,6 +1860,118 @@
                 "model": {
                     "type": "model",
                     "model": "edofishing:item/fish/edoween/boo"
+                }
+            },
+            {
+                "threshold": 61021,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/ajolote_zombi"
+                }
+            },
+            {
+                "threshold": 61022,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/bacalao_de_gominola"
+                }
+            },
+            {
+                "threshold": 61023,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/cangrejo_ermitano_calavera"
+                }
+            },
+            {
+                "threshold": 61024,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/caracol_mentita"
+                }
+            },
+            {
+                "threshold": 61025,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/gamba_fantasma"
+                }
+            },
+            {
+                "threshold": 61026,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/lamprea_sangrienta"
+                }
+            },
+            {
+                "threshold": 61027,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/medusa_calabaza"
+                }
+            },
+            {
+                "threshold": 61028,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/medusa_cerebro"
+                }
+            },
+            {
+                "threshold": 61029,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/pez_candy_corn"
+                }
+            },
+            {
+                "threshold": 61030,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/pez_caramelo"
+                }
+            },
+            {
+                "threshold": 61031,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/pez_de_cthulhu"
+                }
+            },
+            {
+                "threshold": 61032,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/pez_murcielago"
+                }
+            },
+            {
+                "threshold": 61033,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/rana_fantasma"
+                }
+            },
+            {
+                "threshold": 61034,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/salmon_vampiro"
+                }
+            },
+            {
+                "threshold": 61035,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/slime_coagulado"
+                }
+            },
+            {
+                "threshold": 61036,
+                "model": {
+                    "type": "model",
+                    "model": "edofishing:item/fish/edoween/zombee"
                 }
             },
             {

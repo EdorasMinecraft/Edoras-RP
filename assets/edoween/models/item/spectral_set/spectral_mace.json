@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/mace",
+    "textures": {
+        "layer0": "edoween:item/spectral_set/spectral_mace"
+    }
+}

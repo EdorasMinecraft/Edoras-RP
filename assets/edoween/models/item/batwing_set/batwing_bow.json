@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "edoween:item/batwing_set/batwing_bow"
+    }
+}

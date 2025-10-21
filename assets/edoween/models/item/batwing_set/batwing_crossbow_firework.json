@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow_firework",
+    "textures": {
+        "layer0": "edoween:item/batwing_set/batwing_crossbow_firework"
+    }
+}

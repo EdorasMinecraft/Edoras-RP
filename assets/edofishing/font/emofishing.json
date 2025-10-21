@@ -2117,6 +2117,15 @@
         },
         {
             "type": "bitmap",
+            "file": "edofishing:item/fish/regional/obispez.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE325"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "edofishing:item/fish/pirate_treasure/bacalao_de_oro.png",
             "ascent": 7,
             "height": 8,
@@ -2374,6 +2383,150 @@
             "height": 8,
             "chars": [
                 "\uE460"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/ajolote_zombi.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue461"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/bacalao_de_gominola.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue462"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/cangrejo_ermitano_calavera.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue463"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/caracol_mentita.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue464"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/gamba_fantasma.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue465"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/lamprea_sangrienta.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue466"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/medusa_calabaza.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue467"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/medusa_cerebro.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue468"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/pez_candy_corn.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue469"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/pez_caramelo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue46A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/pez_de_cthulhu.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue46B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/pez_murcielago.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue46C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/rana_fantasma_one.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue46D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/salmon_vampiro.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue46E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/slime_coagulado.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue46F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoween/zombee.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\ue470"
             ]
         },
         {

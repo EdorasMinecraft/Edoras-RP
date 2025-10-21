@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edoween:item/pumpkin_set/pumpkin_brush"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow_pulling_0",
+    "textures": {
+        "layer0": "edoween:item/spectral_set/spectral_crossbow_pulling_0"
+    }
+}
