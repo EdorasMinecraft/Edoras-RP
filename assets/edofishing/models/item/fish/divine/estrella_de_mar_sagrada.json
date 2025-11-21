@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/estrella_de_mar_sagrada"
+        "layer0": "edofishing:item/fish/divine/estrella_de_mar_sagrada"
     }
 }

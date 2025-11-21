@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/cangrejo_rojo"
+        "layer0": "edofishing:item/fish/singular/cangrejo_rojo"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/medusa_burbuja"
+        "layer0": "edofishing:item/fish/divine/medusa_burbuja"
     }
 }

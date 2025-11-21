@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/fishing_rod",
-    "textures": {
-        "layer0": "edofishing:item/rod/overworld/horn_coral_rod_cast"
-    }
-}

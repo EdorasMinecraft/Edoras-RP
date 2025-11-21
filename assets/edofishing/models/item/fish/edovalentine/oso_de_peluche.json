@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "edofishing:item/fish/edovalentine/oso_de_peluche"
+    }
+}

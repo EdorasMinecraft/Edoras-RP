@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "edovalentines:item/cupid_set/cupid_mace"
-    }
-}

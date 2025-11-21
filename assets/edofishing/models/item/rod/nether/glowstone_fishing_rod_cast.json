@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/fishing_rod",
+    "textures": {
+        "layer0": "edofishing:item/rod/nether/glowstone_fishing_rod_cast"
+    }
+}

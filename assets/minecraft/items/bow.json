@@ -215,7 +215,7 @@
                     "property": "minecraft:using_item",
                     "on_false": {
                         "type": "minecraft:model",
-                        "model": "edovalentines:item/cupid_set/cupid_bow"
+                        "model": "edovalentine:item/cupid_set/cupid_bow"
                     },
                     "on_true": {
                         "type": "minecraft:range_dispatch",
@@ -223,28 +223,28 @@
                         "scale": 0.05,
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "edovalentines:item/cupid_set/cupid_bow"
+                            "model": "edovalentine:item/cupid_set/cupid_bow"
                         },
                         "entries": [
                             {
                                 "threshold": 0.0,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "edovalentines:item/cupid_set/cupid_bow_pulling_0"
+                                    "model": "edovalentine:item/cupid_set/cupid_bow_pulling_0"
                                 }
                             },
                             {
                                 "threshold": 0.65,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "edovalentines:item/cupid_set/cupid_bow_pulling_1"
+                                    "model": "edovalentine:item/cupid_set/cupid_bow_pulling_1"
                                 }
                             },
                             {
                                 "threshold": 0.9,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "edovalentines:item/cupid_set/cupid_bow_pulling_2"
+                                    "model": "edovalentine:item/cupid_set/cupid_bow_pulling_2"
                                 }
                             }
                         ]

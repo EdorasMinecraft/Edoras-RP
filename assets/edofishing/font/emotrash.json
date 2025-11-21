@@ -1,0 +1,2769 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/acacia_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/andesite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/azalea.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/bamboo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/basalt.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/beef.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/beetroot_seeds.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/birch_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/blackstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/bone_meal.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/bowl.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC0A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/brown_mushroom.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC0B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/cherry_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC0C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/chicken.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC0D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/clay.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC0E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/clay_ball.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC0F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/closed_eyeblossom.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/coal.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/coal_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC12"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/coarse_dirt.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC13"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/cobbled_deepslate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC14"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/cobblestone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC15"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/cocoa_beans.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC16"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/cod_vodka.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC17"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/copper_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC18"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/copper_ingot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC19"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/crimson_fungus.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC1A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/crimson_nylium.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC1B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/crimson_roots.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC1C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/dandelion.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC1D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/dark_oak_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC1E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/dead_bush.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC1F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/diorite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC20"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/dirt.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC21"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/dripstone_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC22"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/egg.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC23"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/feather.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC24"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/fern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC25"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/fishing_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC26"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/flint.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC27"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/flower_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC28"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/glass_bottle.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC29"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/glow_ink_sac.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC2A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/glow_lichen.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC2B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/granite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC2C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/grass_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC2D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/gravel.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC2E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/hanging_roots.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC2F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/ink_sac.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC30"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/iron_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC31"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/iron_ingot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC32"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/jungle_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC33"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/kelp.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC34"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/leather.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC35"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/leather_horse_armor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC36"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/lily_pad.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC37"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/magma_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC38"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/mangrove_propagule.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC39"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/mangrove_roots.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC3A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/melon_seeds.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC3B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/moss_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC3C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/mud.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC3D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/muddy_mangrove_roots.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC3E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/mutton.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC3F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/mycelium.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC40"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/nether_sprouts.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC41"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/nether_wart.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC42"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/netherrack.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC43"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/oak_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC44"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/pale_hanging_moss.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC45"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/pale_moss_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC46"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/pale_oak_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC47"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/pink_petals.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC48"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/podzol.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC49"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/pointed_dripstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC4A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/poisonous_potato.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC4B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/poppy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC4C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/porkchop.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC4D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/potion.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC4E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/pumpkin_seeds.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC4F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/rabbit.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC50"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/rabbit_hide.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC51"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/red_mushroom.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC52"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/red_sand.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC53"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/rooted_dirt.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC54"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/sand.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC55"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/sculk.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC56"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/sculk_vein.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC57"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/seagrass.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC58"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/short_grass.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC59"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/snow_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC5A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/snowball.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC5B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/soul_sand.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC5C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/soul_soil.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC5D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/spruce_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC5E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/stick.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC5F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/sugar.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC60"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/sugar_cane.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC61"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/tripwire_hook.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC62"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/tuff.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC63"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/twisting_vines.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC64"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/vine.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC65"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/warped_fungus.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC66"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/warped_nylium.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC67"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/warped_roots.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC68"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/weeping_vines.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC69"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/wheat_seeds.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC6A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/common/white_wool.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC6B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/acacia_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC80"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/acacia_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC81"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/apple.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC82"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/arrow.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC83"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/azalea_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC84"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/bamboo_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC85"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/beetroot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC86"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/beetroot_soup.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC87"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/birch_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC88"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/birch_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC89"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/blaze_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC8A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/bone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC8B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/book.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC8C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/brain_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC8D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/brick.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC8E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/bricks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC8F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/brown_mushroom_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC90"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/bubble_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC91"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/bucket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC92"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/cactus.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC93"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/carrot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC94"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/cherry_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC95"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/cherry_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC96"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/crimson_stem.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC97"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/dark_oak_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC98"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/dark_oak_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC99"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/dead_brain_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC9A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/dead_bubble_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC9B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/dead_fire_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC9C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/dead_horn_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC9D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/dead_tube_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC9E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/decorated_pot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDC9F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/field_masoned_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/fire_charge.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/fire_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/fishing_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/flower_pot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/ghast_tear.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/glow_berries.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/gold_nugget.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/gunpowder.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/horn_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCA9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/ice.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCAA"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/iron_horse_armor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCAB"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/item_frame.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCAC"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/jungle_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCAD"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/jungle_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCAE"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/lava_bucket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCAF"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/lead.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/magma_cream.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/mangrove_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/mangrove_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/melon_slice.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/mushroom_stem.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/nether_brick.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/nether_bricks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/nether_gold_ore.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/nether_quartz_ore.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCB9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/nether_wart_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCBA"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/oak_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCBB"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/oak_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCBC"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/painting.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCBD"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/pale_oak_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCBE"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/pale_oak_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCBF"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/paper.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/phantom_membrane.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/potato.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/pumpkin.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/quartz.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/quartz_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/red_mushroom_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/redstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/redstone_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/resin_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCC9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/resin_clump.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCCA"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/rotten_flesh.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCCB"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/sangria_kraken.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCCC"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/sculk_sensor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCCD"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/sea_pickle.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCCE"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/spectral_arrow.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCCF"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/spider_eye.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/spruce_leaves.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/spruce_log.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/stone_sword.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/string.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/sweet_berries.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/tube_coral_fan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/warped_stem.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/warped_wart_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/singular/wheat.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDCD9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/acacia_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/angler_pottery_sherd.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/armadillo_scute.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/bamboo_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/big_dripleaf.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/birch_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/bone_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/brain_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/bubble_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/carrot_on_a_stick.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/cherry_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD0A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/chiseled_polished_blackstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD0B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/coral_licor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD0C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/crimson_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD0D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/dark_oak_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD0E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/dead_brain_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD0F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/dead_bubble_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/dead_fire_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/dead_horn_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD12"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/dead_tube_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD13"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/fire_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD14"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/firework_rocket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD15"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/fishing_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD16"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/gilded_blackstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD17"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/globe_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD18"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/glowstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD19"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/glowstone_dust.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD1A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/gold_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD1B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/gold_ingot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD1C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/golden_horse_armor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD1D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/honey_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD1E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/honey_bottle.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD1F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/honeycomb.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD20"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/horn_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD21"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/jungle_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD22"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/mangrove_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD23"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/map.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD24"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/mushroom_stew.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD25"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/name_tag.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD26"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/oak_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD27"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/packed_ice.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD28"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/pale_oak_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD29"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/polished_andesite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD2A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/polished_deepslate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD2B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/polished_diorite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD2C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/polished_granite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD2D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/polished_tuff.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD2E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/rabbit_foot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD2F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/red_nether_bricks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD30"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/red_sandstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD31"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/resin_brick.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD32"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/resin_bricks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD33"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/saddle.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD34"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/sandstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD35"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/sculk_catalyst.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD36"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/small_dripleaf.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD37"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/spore_blossom.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD38"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/spruce_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD39"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/stone_bricks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD3A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/trial_key.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD3B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/tube_coral.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD3C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/warped_fungus_on_a_stick.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD3D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/rare/warped_planks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD3E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/anvil.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD80"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/blue_ice.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD81"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/brain_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD82"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/bubble_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD83"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/calcite.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD84"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/cobweb.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD85"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/creaking_heart.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD86"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/crying_obsidian.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD87"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/dark_prismarine.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD88"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/dead_brain_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD89"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/dead_bubble_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD8A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/dead_fire_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD8B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/dead_horn_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD8C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/dead_tube_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD8D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/emerald.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD8E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/emerald_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD8F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/fire_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD90"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/fishing_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD91"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/golden_apple.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD92"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/golden_carrot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD93"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/guster_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD94"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/horn_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD95"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/lodestone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD96"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/minecart.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD97"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/nautilus_shell.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD98"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/obsidian.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD99"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/ochre_froglight.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD9A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/ominous_bottle.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD9B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/pearlescent_froglight.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD9C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/prismarine.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD9D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/prismarine_bricks.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD9E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/prismarine_crystals.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDD9F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/prismarine_shard.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/sculk_shrieker.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/sea_lantern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/seaweed_absent.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/shroomlight.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/slime_ball.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/slime_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/sniffer_egg.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/tube_coral_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/turtle_scute.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDA9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/verdant_froglight.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDAA"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/wet_sponge.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDAB"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/epic/wither_rose.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDDAC"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/ancient_debris.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/blue_leviathan_cocktail.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/diamond.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/diamond_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/diamond_horse_armor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/fishing_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/flow_armor_trim_smithing_template.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/flow_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/heart_of_the_sea.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/music_disc_pigstep.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/netherite_scrap.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE0A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/netherite_upgrade_smithing_template.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE0B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/ominous_trial_key.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE0C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/piglin_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE0D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/reinforced_deepslate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE0E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/silence_armor_trim_smithing_template.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE0F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/ward_armor_trim_smithing_template.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE10"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/legendary/wither_skeleton_skull.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE11"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/conduit.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE80"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/elixir_of_endersea.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE81"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/enchanted_golden_apple.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE82"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/fishing_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE83"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/mojang_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE84"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/nether_star.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE85"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/netherite_ingot.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE86"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/skull_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE87"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/mythic/trident.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDE88"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/axolotl_bucket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/beacon.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/budding_amethyst.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/champagne_of_the_mermaids.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/creeper_banner_pattern.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/fishing_rod.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/heavy_core.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/netherite_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/divine/piglin_head.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/celestial/x.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB84\uDF80"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/cherry_cake.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/cherry_cookie.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/cherry_cupcake.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/cherry_jam.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/cupid_wings.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/heart_arrow.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/heart_berries.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/love_potion.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edovalentine/strawberry_with_chocolate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/carnival_feather.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC80"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/clown_nose.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC81"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/confetti.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC82"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/confetti_popper.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC83"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/green_firework.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC84"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/pinata.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC85"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/red_firework.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC86"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/serpentines.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC87"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edocarnival/yellow_firework.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDC88"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edospring/x.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDD00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edosummer/netherite_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDD80"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/black_licorice_candy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/blackberry_lollipop.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/bread_of_the_dead.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/cactus_jelly_bean.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/candied_fish_on_a_stick.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/candy_corn.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/cempasuchil_flower.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/chocolate_bar.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/gummy_fish.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/hard_candy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/marshmallow_ghost.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE0A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/raw_gum.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE0B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/shredded_paper.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE0C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/sour_candy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE0D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/sugar_skull.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE0E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoween/taffy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE0F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/caramel_bucket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE80"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/caramel_disc.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE81"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/chocolate_bucket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE82"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/cinnamon.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE83"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/frozen_disc.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE84"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/frozen_ender_eye.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE85"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/frozen_magma_cream.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE86"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/frozen_slime_ball.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE87"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/krampus_chain.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE88"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/krampus_coal.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE89"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/krampus_horn.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE8A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/powdered_chocolate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE8B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/snow_disc.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE8C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/snow_mound.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE8D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/white_chocolate_bucket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE8E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/wreath.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE8F"]
+        }
+    ]
+}

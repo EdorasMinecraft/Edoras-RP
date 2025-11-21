@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow_pulling_1",
+    "textures": {
+        "layer0": "edovalentine:item/cupid_set/cupid_bow_pulling_1"
+    }
+}

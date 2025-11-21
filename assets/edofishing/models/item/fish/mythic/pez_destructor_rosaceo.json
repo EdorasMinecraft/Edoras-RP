@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_destructor_rosaceo"
+        "layer0": "edofishing:item/fish/mythic/pez_destructor_rosaceo"
     }
 }

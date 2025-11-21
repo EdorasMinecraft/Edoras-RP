@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/erizo_de_mar_azul"
+        "layer0": "edofishing:item/fish/legendary/erizo_de_mar_azul"
     }
 }

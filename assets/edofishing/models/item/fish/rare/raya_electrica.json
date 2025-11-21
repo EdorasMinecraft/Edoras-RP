@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/raya_electrica"
+        "layer0": "edofishing:item/fish/rare/raya_electrica"
     }
 }

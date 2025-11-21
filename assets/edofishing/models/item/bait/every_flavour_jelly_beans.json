@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "edofishing:item/bait/every_flavour_jelly_beans"
+    }
+}

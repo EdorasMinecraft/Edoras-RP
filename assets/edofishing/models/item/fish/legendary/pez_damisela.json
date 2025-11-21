@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_damisela"
+        "layer0": "edofishing:item/fish/legendary/pez_damisela"
     }
 }

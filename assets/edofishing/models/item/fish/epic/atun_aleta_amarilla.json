@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/atun_aleta_amarilla"
+        "layer0": "edofishing:item/fish/epic/atun_aleta_amarilla"
     }
 }

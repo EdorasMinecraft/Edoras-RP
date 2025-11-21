@@ -230,20 +230,20 @@
                         "property": "minecraft:charge_type",
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "edovalentines:item/cupid_set/cupid_crossbow"
+                            "model": "edovalentine:item/cupid_set/cupid_crossbow"
                         },
                         "cases": [
                             {
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "edovalentines:item/cupid_set/cupid_crossbow_arrow"
+                                    "model": "edovalentine:item/cupid_set/cupid_crossbow_arrow"
                                 },
                                 "when": "arrow"
                             },
                             {
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "edovalentines:item/cupid_set/cupid_crossbow_firework"
+                                    "model": "edovalentine:item/cupid_set/cupid_crossbow_firework"
                                 },
                                 "when": "rocket"
                             }
@@ -254,21 +254,21 @@
                         "property": "minecraft:crossbow/pull",
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "edovalentines:item/cupid_set/cupid_crossbow_pulling_0"
+                            "model": "edovalentine:item/cupid_set/cupid_crossbow_pulling_0"
                         },
                         "entries": [
                             {
                                 "threshold": 0.58,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "edovalentines:item/cupid_set/cupid_crossbow_pulling_1"
+                                    "model": "edovalentine:item/cupid_set/cupid_crossbow_pulling_1"
                                 }
                             },
                             {
                                 "threshold": 1.0,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "edovalentines:item/cupid_set/cupid_crossbow_pulling_2"
+                                    "model": "edovalentine:item/cupid_set/cupid_crossbow_pulling_2"
                                 }
                             }
                         ]

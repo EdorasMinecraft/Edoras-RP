@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/anguila_pelicano"
+        "layer0": "edofishing:item/fish/rare/anguila_pelicano"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/caballito_de_lava"
+        "layer0": "edofishing:item/fish/legendary/caballito_de_lava"
     }
 }

@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "edofishing:item/trash/edovalentines/strawberry_with_chocolate"
-    }
-}

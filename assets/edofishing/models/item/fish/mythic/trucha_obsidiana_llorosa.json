@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/trucha_obsidiana_llorosa"
+        "layer0": "edofishing:item/fish/mythic/trucha_obsidiana_llorosa"
     }
 }

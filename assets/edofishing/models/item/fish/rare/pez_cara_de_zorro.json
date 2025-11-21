@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_cara_de_zorro"
+        "layer0": "edofishing:item/fish/rare/pez_cara_de_zorro"
     }
 }

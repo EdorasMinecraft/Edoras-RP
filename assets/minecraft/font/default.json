@@ -2,7 +2,15 @@
     "providers": [
         {
             "type": "reference",
-            "id": "edofishing:emofishing"
+            "id": "edofishing:emofish"
+        },
+        {
+            "type": "reference",
+            "id":"edofishing:emotrash"
+        },
+        {
+            "type": "reference",
+            "id":"edofishing:emorod"
         }
     ]
 }

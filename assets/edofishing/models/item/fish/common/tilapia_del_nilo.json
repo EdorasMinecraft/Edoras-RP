@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/tilapia_del_nilo"
+        "layer0": "edofishing:item/fish/common/tilapia_del_nilo"
     }
 }

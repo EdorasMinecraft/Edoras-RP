@@ -39,7 +39,7 @@
                 "threshold": 50005,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/trash/edovalentines/cherry_jam"
+                    "model": "edofishing:item/trash/edovalentine/cherry_jam"
                 }
             },
             {

@@ -11,7 +11,7 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/trash/edovalentines/heart_arrow"
+                    "model": "edofishing:item/trash/edovalentine/heart_arrow"
                 }
             },
             {

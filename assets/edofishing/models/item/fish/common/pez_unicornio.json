@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_unicornio"
+        "layer0": "edofishing:item/fish/common/pez_unicornio"
     }
 }

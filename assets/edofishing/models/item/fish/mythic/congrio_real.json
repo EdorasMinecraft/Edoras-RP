@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/congrio_real"
+        "layer0": "edofishing:item/fish/mythic/congrio_real"
     }
 }

@@ -228,98 +228,98 @@
                 "threshold": 21001,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_cupid"
+                    "model": "edoplushies:plushies/edovalentine/plushie_cupid"
                 }
             },
             {
                 "threshold": 21002,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_ilovemoo"
+                    "model": "edoplushies:plushies/edovalentine/plushie_ilovemoo"
                 }
             },
             {
                 "threshold": 21003,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_mr_cuddles"
+                    "model": "edoplushies:plushies/edovalentine/plushie_mr_cuddles"
                 }
             },
             {
                 "threshold": 21004,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_octopus_blue"
+                    "model": "edoplushies:plushies/edovalentine/plushie_octopus_blue"
                 }
             },
             {
                 "threshold": 21005,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_octopus_brown"
+                    "model": "edoplushies:plushies/edovalentine/plushie_octopus_brown"
                 }
             },
             {
                 "threshold": 21006,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_octopus_cream"
+                    "model": "edoplushies:plushies/edovalentine/plushie_octopus_cream"
                 }
             },
             {
                 "threshold": 21007,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_octopus_pink"
+                    "model": "edoplushies:plushies/edovalentine/plushie_octopus_pink"
                 }
             },
             {
                 "threshold": 21008,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_puppy_golden"
+                    "model": "edoplushies:plushies/edovalentine/plushie_puppy_golden"
                 }
             },
             {
                 "threshold": 21009,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_puppy_patchy"
+                    "model": "edoplushies:plushies/edovalentine/plushie_puppy_patchy"
                 }
             },
             {
                 "threshold": 21010,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_teddy_blue"
+                    "model": "edoplushies:plushies/edovalentine/plushie_teddy_blue"
                 }
             },
             {
                 "threshold": 21011,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_teddy_brown"
+                    "model": "edoplushies:plushies/edovalentine/plushie_teddy_brown"
                 }
             },
             {
                 "threshold": 21012,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_teddy_pink"
+                    "model": "edoplushies:plushies/edovalentine/plushie_teddy_pink"
                 }
             },
             {
                 "threshold": 21013,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_cereza"
+                    "model": "edoplushies:plushies/edovalentine/plushie_cereza"
                 }
             },
             {
                 "threshold": 21014,
                 "model": {
                     "type": "model",
-                    "model": "edoplushies:plushies/edovalentines/plushie_pistacho"
+                    "model": "edoplushies:plushies/edovalentine/plushie_pistacho"
                 }
             },
             {

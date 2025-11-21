@@ -39,7 +39,7 @@
                 "threshold": 50005,
                 "model": {
                     "type": "model",
-                    "model": "edovalentines:item/cupid_set/cupid_hoe"
+                    "model": "edovalentine:item/cupid_set/cupid_hoe"
                 }
             },
             {

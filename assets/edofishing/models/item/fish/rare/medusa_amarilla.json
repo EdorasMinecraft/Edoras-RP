@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/medusa_amarilla"
+        "layer0": "edofishing:item/fish/rare/medusa_amarilla"
     }
 }

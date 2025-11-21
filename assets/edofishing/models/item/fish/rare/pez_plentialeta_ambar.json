@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_plentialeta_ambar"
+        "layer0": "edofishing:item/fish/rare/pez_plentialeta_ambar"
     }
 }

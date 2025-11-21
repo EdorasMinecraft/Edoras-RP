@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/barbo_tigre"
+        "layer0": "edofishing:item/fish/rare/barbo_tigre"
     }
 }

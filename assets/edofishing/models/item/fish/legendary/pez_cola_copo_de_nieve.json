@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_cola_copo_de_nieve"
+        "layer0": "edofishing:item/fish/legendary/pez_cola_copo_de_nieve"
     }
 }

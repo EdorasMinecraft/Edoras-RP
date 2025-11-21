@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_cofre_fangoso"
+        "layer0": "edofishing:item/fish/epic/pez_cofre_fangoso"
     }
 }

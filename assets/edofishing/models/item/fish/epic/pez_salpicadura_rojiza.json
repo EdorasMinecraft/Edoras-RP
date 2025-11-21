@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/pez_salpicadura_rojiza"
+        "layer0": "edofishing:item/fish/epic/pez_salpicadura_rojiza"
     }
 }

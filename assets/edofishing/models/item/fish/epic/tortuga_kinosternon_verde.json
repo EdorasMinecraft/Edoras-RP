@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/tortuga_kinosternon_verde"
+        "layer0": "edofishing:item/fish/epic/tortuga_kinosternon_verde"
     }
 }

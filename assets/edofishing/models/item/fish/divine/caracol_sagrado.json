@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/caracol_sagrado"
+        "layer0": "edofishing:item/fish/divine/caracol_sagrado"
     }
 }

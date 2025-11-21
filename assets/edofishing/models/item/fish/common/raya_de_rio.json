@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/raya_de_rio"
+        "layer0": "edofishing:item/fish/common/raya_de_rio"
     }
 }

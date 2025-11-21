@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/mahi_mahi_dorado"
+        "layer0": "edofishing:item/fish/rare/mahi_mahi_dorado"
     }
 }

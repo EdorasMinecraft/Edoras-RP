@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/isopodo_gigante_nevado"
+        "layer0": "edofishing:item/fish/legendary/isopodo_gigante_nevado"
     }
 }

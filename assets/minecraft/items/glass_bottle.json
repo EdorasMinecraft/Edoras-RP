@@ -25,7 +25,7 @@
                 "threshold": 50003,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/trash/edovalentines/love_potion"
+                    "model": "edofishing:item/trash/edovalentine/love_potion"
                 }
             },
             {

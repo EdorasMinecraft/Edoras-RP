@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "edofishing:item/fish/cangrejo_ermitano_verde"
+        "layer0": "edofishing:item/fish/epic/cangrejo_ermitano_verde"
     }
 }
