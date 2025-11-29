@@ -15,7 +15,7 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/new_year_gift"
+                    "model": "edoxmas:item/advent_calendar/2024/new_year_gift"
                 }
             },
             {

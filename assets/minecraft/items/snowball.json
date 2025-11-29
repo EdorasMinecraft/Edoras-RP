@@ -11,14 +11,14 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/snowflake"
+                    "model": "edoxmas:item/advent_calendar/2024/snowflake"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/pocket_snowman"
+                    "model": "edoxmas:item/advent_calendar/2024/pocket_snowman"
                 }
             },
             {

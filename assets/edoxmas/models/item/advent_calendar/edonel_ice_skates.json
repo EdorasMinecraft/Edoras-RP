@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "edoxmas:item/advent_calendar/edonel_ice_skates",
-        "layer1": "edoxmas:item/advent_calendar/edonel_ice_skates_overlay"
-    }
-}

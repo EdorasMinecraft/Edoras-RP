@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "edoxmas:item/advent_calendar/2024/iberic_ham"
+    }
+}

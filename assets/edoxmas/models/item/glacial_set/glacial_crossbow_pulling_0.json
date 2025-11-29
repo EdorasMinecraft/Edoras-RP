@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/crossbow_pulling_2",
+    "parent": "minecraft:item/crossbow_pulling_0",
     "textures": {
         "layer0": "edoxmas:item/glacial_set/glacial_crossbow_pulling_0"
     }

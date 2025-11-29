@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow_pulling_2",
+    "textures": {
+        "layer0": "edoxmas:item/mistletoe_set/mistletoe_bow_pulling_2"
+    }
+}

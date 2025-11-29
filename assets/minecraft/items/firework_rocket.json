@@ -11,7 +11,7 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/winter_rocket"
+                    "model": "edoxmas:item/advent_calendar/2024/winter_rocket"
                 }
             },
             {

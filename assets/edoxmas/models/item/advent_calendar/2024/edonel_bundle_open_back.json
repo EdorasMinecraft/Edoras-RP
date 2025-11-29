@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/template_bundle_open_back",
+    "textures": {
+        "layer0": "edoxmas:item/advent_calendar/2024/edonel_bundle_open_back"
+    }
+}

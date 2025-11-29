@@ -774,7 +774,7 @@
                 "threshold": 53011,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/fish/epic/pepino_de_mar"
+                    "model": "edofishing:item/fish/epic/pepino_de_mar_verde"
                 }
             },
             {
@@ -2097,7 +2097,7 @@
                 "threshold": 62018,
                 "model": {
                     "type": "model",
-                    "model": "edofishing:item/fish/edoxmas/salmon_cunao"
+                    "model": "edofishing:item/fish/edoxmas/salmon_cunado"
                 }
             },
             {

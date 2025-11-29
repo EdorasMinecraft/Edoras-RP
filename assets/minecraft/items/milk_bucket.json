@@ -11,14 +11,14 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/hot_chocolate"
+                    "model": "edoxmas:item/advent_calendar/2024/hot_chocolate"
                 }
             },
             {
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/cookies_and_milk"
+                    "model": "edoxmas:item/advent_calendar/2024/cookies_and_milk"
                 }
             },
             {

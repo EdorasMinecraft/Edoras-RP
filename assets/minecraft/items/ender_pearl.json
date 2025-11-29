@@ -18,7 +18,7 @@
                 "threshold": 50002,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/frozen_ender_pearl"
+                    "model": "edoxmas:item/advent_calendar/2024/frozen_ender_pearl"
                 }
             },
             {

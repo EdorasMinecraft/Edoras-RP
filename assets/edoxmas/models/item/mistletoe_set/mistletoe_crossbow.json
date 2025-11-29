@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow",
+    "textures": {
+        "layer0": "edoxmas:item/mistletoe_set/mistletoe_crossbow"
+    }
+}

@@ -3159,136 +3159,318 @@
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/x.png",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_amarillo.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDE40"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/barbo_nevado.png",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_arbol_de_navidad.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE41"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_azul.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE42"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_blanco.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE43"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_celeste.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE44"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_cian.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE45"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_edorino.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE46"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_gris.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE47"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_gris_claro.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE48"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_magenta.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE49"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_marron.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE4A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_morado.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE4B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_naranja.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE4C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_negro.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE4D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_rojo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE4E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_rosa.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE4F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_verde.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE50"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_ornamento_verde_lima.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDE51"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/anguila_guirnalda_navidena.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC0"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/estrella_de_mar_de_jengibre.png",
+            "file": "edofishing:item/fish/edoxmas/barbo_nevado.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC1"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/estrella_de_mar_polar.png",
+            "file": "edofishing:item/fish/edoxmas/caballito_de_mar_baston_de_caramelo.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC2"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/muneco_de_jengibre.png",
+            "file": "edofishing:item/fish/edoxmas/cangrejo_ermitano_arbol_de_navidad.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC3"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/muneco_de_nieve.png",
+            "file": "edofishing:item/fish/edoxmas/elfo_buzo.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC4"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_bola_de_nieve.png",
+            "file": "edofishing:item/fish/edoxmas/estrella_de_mar_de_jengibre.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC5"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_carambano.png",
+            "file": "edofishing:item/fish/edoxmas/estrella_de_mar_polar.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC6"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_christmas_tree.png",
+            "file": "edofishing:item/fish/edoxmas/muneco_de_jengibre.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC7"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_foquito.png",
+            "file": "edofishing:item/fish/edoxmas/muneco_de_nieve.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC8"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_foquito_multicolor_one.png",
+            "file": "edofishing:item/fish/edoxmas/nautilo_baston_de_caramelo.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDEC9"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_globo_de_nieve.png",
+            "file": "edofishing:item/fish/edoxmas/papa_edonel_buzo.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDECA"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_pino.png",
+            "file": "edofishing:item/fish/edoxmas/pez_bola_de_nieve.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDECB"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_pipa_glacial.png",
+            "file": "edofishing:item/fish/edoxmas/pez_carambano.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDECC"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_platija_escarchado.png",
+            "file": "edofishing:item/fish/edoxmas/pez_christmas_tree.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDECD"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pez_regalo.png",
+            "file": "edofishing:item/fish/edoxmas/pez_foquito.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDECE"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/pinguino_guaton.png",
+            "file": "edofishing:item/fish/edoxmas/pez_foquito_multicolor_one.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDECF"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/rana_invernal.png",
+            "file": "edofishing:item/fish/edoxmas/pez_globo_angelito.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDED0"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edoxmas/salmon_cunado.png",
+            "file": "edofishing:item/fish/edoxmas/pez_globo_de_nieve.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB81\uDED1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_gota_de_nieve.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDED2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_pino.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEE5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_pipa_glacial.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEE6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_platija_escarchado.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEE7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pez_regalo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEE8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/pinguino_guaton.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEE9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/rana_invernal.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEEA"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/salmon_cunado.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEEB"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edoxmas/slime_glacial.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB81\uDEEC"]
         }
     ]
 }

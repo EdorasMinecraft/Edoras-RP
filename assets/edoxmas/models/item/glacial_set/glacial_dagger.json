@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edoxmas:item/glacial_set/glacial_dagger"
+    }
+}

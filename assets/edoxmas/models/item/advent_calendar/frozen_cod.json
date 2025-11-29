@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "edoxmas:item/advent_calendar/frozen_cod"
-    }
-}

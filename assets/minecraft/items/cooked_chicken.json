@@ -11,7 +11,7 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/herb_stuffed_turkey"
+                    "model": "edoxmas:item/advent_calendar/2024/herb_stuffed_turkey"
                 }
             },
             {

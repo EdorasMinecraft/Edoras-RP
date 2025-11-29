@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edoxmas:item/candy_cane_set/candy_cane_mace"
+    }
+}

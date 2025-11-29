@@ -17,7 +17,7 @@
                 "threshold": 50001,
                 "model": {
                     "type": "model",
-                    "model": "edoxmas:item/advent_calendar/edonel_ice_skates"
+                    "model": "edoxmas:item/advent_calendar/2024/edonel_ice_skates"
                 }
             },
             {
