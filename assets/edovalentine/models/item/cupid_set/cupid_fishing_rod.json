@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/fishing_rod",
+    "textures": {
+        "layer0": "edovalentine:item/cupid_set/cupid_fishing_rod"
+    }
+}

@@ -2655,178 +2655,255 @@
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/candy_cane_music_disc.png",
+            "file": "edofishing:item/trash/edoxmas/bell.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE80"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/caramel_bucket.png",
+            "file": "edofishing:item/trash/edoxmas/blue_ice.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE81"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/chocolate_bucket.png",
+            "file": "edofishing:item/trash/edoxmas/candy_cane_music_disc.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE82"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/cinnamon.png",
+            "file": "edofishing:item/trash/edoxmas/caramel_bucket.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE83"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/creeper_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/chicken_jockey_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE84"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/dad_edonel_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/chocolate_bucket.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE85"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/elf_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/cinnamon.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE86"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/frog_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/creeper_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE87"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/frozen_ender_eye.png",
+            "file": "edofishing:item/trash/edoxmas/dad_edonel_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE88"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/frozen_magma_cream.png",
+            "file": "edofishing:item/trash/edoxmas/elf_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE89"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/frozen_music_disc.png",
+            "file": "edofishing:item/trash/edoxmas/frog_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE8A"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/frozen_slime_ball.png",
+            "file": "edofishing:item/trash/edoxmas/frozen_ender_eye.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE8B"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/grinch_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/frozen_magma_cream.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE8C"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/krampus_chain.png",
+            "file": "edofishing:item/trash/edoxmas/frozen_music_disc.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE8D"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/krampus_coal.png",
+            "file": "edofishing:item/trash/edoxmas/frozen_slime_ball.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE8E"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/krampus_horn.png",
+            "file": "edofishing:item/trash/edoxmas/grinch_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE8F"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/mom_edonel_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/ice.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE90"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/polar_bear_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/krampus_chain.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE91"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/powdered_chocolate.png",
+            "file": "edofishing:item/trash/edoxmas/krampus_coal.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE92"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/rudolph_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/krampus_horn.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE93"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/snow_mound.png",
+            "file": "edofishing:item/trash/edoxmas/mom_edonel_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE94"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/snow_music_disc.png",
+            "file": "edofishing:item/trash/edoxmas/packed_ice.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE95"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/snowman_ornament.png",
+            "file": "edofishing:item/trash/edoxmas/pink_sheep_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE96"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/white_chocolate_bucket.png",
+            "file": "edofishing:item/trash/edoxmas/polar_bear_ornament.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE97"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/trash/edoxmas/wreath.png",
+            "file": "edofishing:item/trash/edoxmas/powdered_chocolate.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB85\uDE98"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/rudolph_ornament.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE99"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/snow.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE9A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/snow_mound.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE9B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/snow_music_disc.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE9C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/snowball.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE9D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/snowman_ornament.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE9E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/spruce_sapling.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDE9F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/sugar.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDEA0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/white_chocolate_bucket.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDEA1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/witch_ornament.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDEA2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/trash/edoxmas/wreath.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB85\uDEA3"]
         }
     ]
 }

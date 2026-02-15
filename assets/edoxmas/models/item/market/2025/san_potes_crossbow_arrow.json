@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/crossbow_arrow",
+    "textures": {
+        "layer0": "edoxmas:item/market/2025/san_potes_crossbow_arrow"
+    }
+}

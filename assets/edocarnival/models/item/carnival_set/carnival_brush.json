@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "edocarnival:item/carnival_set/carnival_brush"
+    }
+}

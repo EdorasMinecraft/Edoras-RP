@@ -1920,10 +1920,17 @@
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/celestial/ajolote_celestial.png",
+            "file": "edofishing:item/fish/edobirthday/pez_tarta_de_cumpleanos.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDDC0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edobirthday/rana_cumpleanera.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDDC1"]
         },
         {
             "type": "bitmap",
@@ -2039,143 +2046,311 @@
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/ballena_carmesi.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_amarillo.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE80"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/carpa_koi_del_amor.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_azul.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE81"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/medusa_corazon.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_blanco.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE82"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/oso_de_peluche.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_celeste.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE83"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/pez_barra_de_chocolate.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_cian.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE84"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/pez_chocofresa.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_magenta.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE85"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/pez_cupido.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_naranja.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE86"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/pez_ramo.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_rojo.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE87"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/rana_elegante.png",
+            "file": "edofishing:item/fish/edovalentine/pez_betta_rosa.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDE88"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edovalentine/x.png",
+            "file": "edofishing:item/fish/edovalentine/ajolote_amoroso.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB80\uDE89"]
+            "chars": ["\uDB80\uDF00"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/bacalao_globo.png",
+            "file": "edofishing:item/fish/edovalentine/ballena_carmesi.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/carpa_koi_del_amor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/mantarraya_del_amor.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/medusa_corazon.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF04"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/oso_de_peluche.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF05"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/pez_barra_de_chocolate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF06"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/pez_chocofresa.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF07"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/pez_cupido.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF08"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/pez_ramo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF09"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/rana_elegante.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF0A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/san_vadelfin.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF0B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edovalentine/x.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDF0C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_arcoiris.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF40"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/lorito_azul.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_arrendajo_azul.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF41"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/pez_canon_confeti_one.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_canario.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF42"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/pez_globo_globo.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_capa.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF43"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/pez_pinata.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_cisne.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF44"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/plumana.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_flamenco.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF45"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/rana_carnavalera.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_pavo_real.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF46"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/serpientina.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_payaso.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF47"]
         },
         {
             "type": "bitmap",
-            "file": "edofishing:item/fish/edocarnival/tiburon_confeti_one.png",
+            "file": "edofishing:item/fish/edocarnival/pez_pluma_trepador_azul.png",
             "ascent": 7,
             "height": 8,
             "chars": ["\uDB80\uDF48"]
         },
         {
             "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/anguila_confeti.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/bacalao_globo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/lorito_azul.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/pez_canon_confeti_one.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/pez_globo_globo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/pez_pinata.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC5"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/plumana.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC6"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/pulpo_enmascarado.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC7"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/rana_carnavalera.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC8"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/serpientina.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFC9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/tiburon_confeti_one.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFCA"]
+        },
+        {
+            "type": "bitmap",
+            "file": "edofishing:item/fish/edocarnival/tucan.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uDB80\uDFCB"]
+        },
+        {
+            "type": "bitmap",
             "file": "edofishing:item/fish/edocarnival/x.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB80\uDF49"]
+            "chars": ["\uDB80\uDFCC"]
         },
         {
             "type": "bitmap",
@@ -3421,56 +3596,56 @@
             "file": "edofishing:item/fish/edoxmas/pez_pino.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEE5"]
+            "chars": ["\uDB81\uDED3"]
         },
         {
             "type": "bitmap",
             "file": "edofishing:item/fish/edoxmas/pez_pipa_glacial.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEE6"]
+            "chars": ["\uDB81\uDED4"]
         },
         {
             "type": "bitmap",
             "file": "edofishing:item/fish/edoxmas/pez_platija_escarchado.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEE7"]
+            "chars": ["\uDB81\uDED5"]
         },
         {
             "type": "bitmap",
             "file": "edofishing:item/fish/edoxmas/pez_regalo.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEE8"]
+            "chars": ["\uDB81\uDED6"]
         },
         {
             "type": "bitmap",
             "file": "edofishing:item/fish/edoxmas/pinguino_guaton.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEE9"]
+            "chars": ["\uDB81\uDED7"]
         },
         {
             "type": "bitmap",
             "file": "edofishing:item/fish/edoxmas/rana_invernal.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEEA"]
+            "chars": ["\uDB81\uDED8"]
         },
         {
             "type": "bitmap",
             "file": "edofishing:item/fish/edoxmas/salmon_cunado.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEEB"]
+            "chars": ["\uDB81\uDED9"]
         },
         {
             "type": "bitmap",
             "file": "edofishing:item/fish/edoxmas/slime_glacial.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\uDB81\uDEEC"]
+            "chars": ["\uDB81\uDEDA"]
         }
     ]
 }
